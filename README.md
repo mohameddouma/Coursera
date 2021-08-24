@@ -71,17 +71,6 @@ Remember :
 | $ git push | Git push is used to push commits from your local repo to a remote repo |          
 | $ git pull | Git pull is used to fetch the newest updates from a remote repository |  
 
-
- ## Remotes
-
-| Syntax | Description |                        
-| :--- | :--- |                                                                                
-| $ git remote | Lists remote repos |          
-| $ git remote -v | List remote repos verbosely | 
-| $ git remote show <name> | Describes a single remote repo |
-| $ git remote update | Fetches the most up-to-date objects |
-| $ git fetch | Downloads specific objects |
-| $ git branch -r | Lists remote branches; can be combined with other branch arguments to manage remote branches |
 	
 	 	
 	
